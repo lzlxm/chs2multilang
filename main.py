@@ -39,6 +39,7 @@ while True:
     print(line)
     ret_cht += chs_to_cht(line)
 
+#打印到调试窗体
 print(ret_cht)
 
 file.close()
